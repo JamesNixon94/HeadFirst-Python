@@ -1,3 +1,5 @@
+#intro to list methods
+
 phrase = "Don't panic!"
 plist = list(phrase)
 print(phrase)
